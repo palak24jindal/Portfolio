@@ -1,6 +1,18 @@
-title: Minimal theme
+title: <p align="center"> Palak Jindal </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/sajan-kedia-b06a6821/">LinkedIn</a> |
+  <a href="https://github.com/palak24jindal">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  I'm learning Machine leanrning and Artificial Intelligence from IIIT Banglore and LJMU.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
